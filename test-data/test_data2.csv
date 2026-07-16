@@ -1,0 +1,31 @@
+# AIRPORTS
+CODE,NAME,X,Y
+MAD,Madrid Barajas,-4,40
+FCO,Rome Fiumicino,12,42
+VIE,Vienna Schwechat,16,48
+ZRH,Zurich Airport,8,47
+CPH,Copenhagen Kastrup,12,55
+ARN,Stockholm Arlanda,18,59
+DUB,Dublin Airport,-6,53
+LIS,Lisbon Portela,-9,39
+ATH,Athens Eleftherios Venizelos,24,38
+WAW,Warsaw Chopin,21,52
+OSL,Oslo Gardermoen,11,60
+HEL,Helsinki Vantaa,25,60
+# FLIGHTS
+FROM,TO,DEPARTURE,DURATION
+MAD,FCO,07:20,150
+FCO,VIE,10:00,90
+VIE,ZRH,12:30,75
+ZRH,CPH,14:10,120
+CPH,ARN,16:00,70
+ARN,HEL,18:15,55
+DUB,LIS,09:00,150
+LIS,MAD,11:45,75
+ATH,FCO,06:30,140
+WAW,VIE,13:00,80
+OSL,CPH,15:30,60
+HEL,WAW,20:00,90
+MAD,LIS,22:30,75
+VIE,ATH,08:45,130
+CPH,OSL,17:20,60

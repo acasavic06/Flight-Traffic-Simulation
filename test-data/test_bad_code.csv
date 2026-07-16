@@ -1,0 +1,10 @@
+# AIRPORTS
+CODE,NAME,X,Y
+LHR,London Heathrow,0,51
+JF,John F Kennedy International,-37,41
+CDG,Charles de Gaulle,1,49
+BEG,Belgrade Nikola Tesla,10,45
+# FLIGHTS
+FROM,TO,DEPARTURE,DURATION
+LHR,CDG,08:30,90
+BEG,LHR,17:10,170

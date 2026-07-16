@@ -1,0 +1,22 @@
+{
+"airports":[
+{"code":"MAD","name":"Madrid Barajas","x":-4,"y":40},
+{"code":"FCO","name":"Rome Fiumicino","x":12,"y":42},
+{"code":"VIE","name":"Vienna Schwechat","x":16,"y":48},
+{"code":"ZRH","name":"Zurich Airport","x":8,"y":47},
+{"code":"CPH","name":"Copenhagen Kastrup","x":12,"y":55},
+{"code":"DUB","name":"Dublin Airport","x":-6,"y":53},
+{"code":"LIS","name":"Lisbon Portela","x":-9,"y":39},
+{"code":"ATH","name":"Athens Eleftherios Venizelos","x":24,"y":38}
+],
+"flights":[
+{"from":"MAD","to":"FCO","departure":"07:20","duration":150},
+{"from":"FCO","to":"VIE","departure":"10:00","duration":90},
+{"from":"VIE","to":"ZRH","departure":"12:30","duration":75},
+{"from":"ZRH","to":"CPH","departure":"14:10","duration":120},
+{"from":"DUB","to":"LIS","departure":"09:00","duration":150},
+{"from":"LIS","to":"MAD","departure":"11:45","duration":75},
+{"from":"ATH","to":"FCO","departure":"06:30","duration":140},
+{"from":"MAD","to":"LIS","departure":"22:30","duration":75}
+]
+}

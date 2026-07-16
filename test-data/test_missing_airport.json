@@ -1,0 +1,11 @@
+{
+"airports":[
+{"code":"LHR","name":"London Heathrow","x":0,"y":51},
+{"code":"CDG","name":"Charles de Gaulle","x":1,"y":49},
+{"code":"BEG","name":"Belgrade Nikola Tesla","x":10,"y":45}
+],
+"flights":[
+{"from":"LHR","to":"CDG","departure":"08:30","duration":90},
+{"from":"BEG","to":"XXX","departure":"17:10","duration":170}
+]
+}
